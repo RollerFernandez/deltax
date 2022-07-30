@@ -14,6 +14,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `lista de mascotas`
+
+![Capture1](https://user-images.githubusercontent.com/2201258/181920021-8608cb0f-3035-4cd6-80b7-1f10f8e2f6bd.PNG)
+
+### `registro de mascotas`
+![Capture2](https://user-images.githubusercontent.com/2201258/181920031-bc919f0c-884c-497d-aaf9-ef3746d87220.PNG)
+
+### `ubicacion de mascotas`
+![Capture3](https://user-images.githubusercontent.com/2201258/181920037-9d8852b9-7ba4-4f49-9a7e-24962c8bdcc0.PNG)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
